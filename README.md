@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**# Hi 👋, I'm Vishal Pandey
+Hi 👋, I'm Vishal Pandey
 
 🎓 B.Tech CSE (AI) Student
 💡 Passionate about AI, Machine Learning & Real-World Problem Solving
@@ -39,8 +39,8 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: (Add your link)
-* Email: (Add your email)
+* LinkedIn: (www.linkedin.com/in/vishal-pandey-11207031b)
+
 
 ---
 
