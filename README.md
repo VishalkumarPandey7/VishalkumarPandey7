@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **# Hi 👋, I'm Vishal Pandey
 
 🎓 B.Tech CSE (AI) Student
@@ -20,11 +20,11 @@
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Python, Java, SQL
-* **Libraries:** NumPy, Pandas, Matplotlib
-* **AI/ML:** Machine Learning, NLP, Deep Learning (Basics)
-* **Tools:** VS Code, Google Colab, Git, GitHub, Power BI
-* **Frameworks:** LangChain (Learning), FAISS
+ **Languages:** Python, Java, SQL
+**Libraries:** NumPy, Pandas, Matplotlib
+ **AI/ML:** Machine Learning, NLP, Deep Learning (Basics)
+ **Tools:** VS Code, Google Colab, Git, GitHub, Power BI
+ **Frameworks:** LangChain (Learning), FAISS
 
 ---
 
